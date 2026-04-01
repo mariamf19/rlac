@@ -1,8 +1,40 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-body {
-  background-color: #e6e6fa; /* light purple/lavender */
+/* Custom overrides */
+
+/* Sharper nav */
+.greedy-nav {
+  background: #1a1a1a;
+}
+
+/* Make post titles pop */
+.archive__item-title {
+  font-size: 1.2em;
+  letter-spacing: 0.02em;
+}
+
+/* Tighten up the sidebar */
+.author__name {
+  font-size: 1.1em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Monospace feel for the site title */
+.site-title {
+  font-family: monospace;
+  letter-spacing: 0.03em;
+}
+
+/* Add a subtle accent to headings */
+h2 {
+  border-bottom: 1px solid #444;
+  padding-bottom: 0.3em;
 }
