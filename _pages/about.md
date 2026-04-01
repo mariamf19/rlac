@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This is my course site for CDAD-UH 1024Q: Reading Like a Computer, taught by Prof. David Wrisley at NYU Abu Dhabi, Spring 2026.
+The course explores computational approaches to text analysis — how computers "read," what distant reading can and cannot tell us, and what happens when we apply quantitative methods to literary and cultural corpora. We work with tools like Voyant Tools and R, and think critically about what it means to let a non-human interpret language.
+I am a junior at NYU Abu Dhabi studying Interactive Media with a minor in Computer Science.
+This site collects my assignments, responses, and reflections from the course. 

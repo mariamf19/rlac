@@ -1,11 +1,9 @@
 main:
   - title: "Posts"
-    url: /posts/
+    url: /rlac/posts/
   - title: "Responses"
-    url: /categories/
+    url: /rlac/categories/
   - title: "Assignments"
-    url: /assignments/
+    url: /rlac/assignments/
   - title: "About"
-    url: /about/
-  - title: "Home"
-    url: /home/
+    url: /rlac/about/
