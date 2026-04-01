@@ -4,10 +4,8 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
-
-/* Custom overrides */
 
 /* Sharper nav */
 .greedy-nav {
@@ -27,13 +25,13 @@
   text-transform: uppercase;
 }
 
-/* Monospace feel for the site title */
-.site-title {
+/* Monospace site title */
+.masthead__inner-wrap .site-title {
   font-family: monospace;
   letter-spacing: 0.03em;
 }
 
-/* Add a subtle accent to headings */
+/* Subtle accent on h2 headings */
 h2 {
   border-bottom: 1px solid #444;
   padding-bottom: 0.3em;
