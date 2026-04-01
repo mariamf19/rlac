@@ -3,9 +3,9 @@ main:
     url: /posts/
   - title: "Responses"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Assignments"
+    url: /assignments/
   - title: "About"
-    url: /tags/
+    url: /about/
   - title: "Home"
     url: /home/
