@@ -1,5 +1,5 @@
 ---
-title: "Rowling Wrote a War Story. Did Fanfiction Turn It Into a Love Story?"
+title: "Assignment 1"
 date: 2026-03-15
 categories: [Assignments]
 tags: [Assignments, Corpora, Voyant Tools, R, S26, Harry Potter]
@@ -76,8 +76,11 @@ The "kiss" distribution is the starkest finding in the romance cluster. yellowsu
 
 The side-by-side R word clouds (Figure 5) provide a visual summary of the register differences across the four texts. Deathly Hallows: "harry," "hermione," "ron," "voldemort," "death," "wand," "dumbledore" — a war story cast list with death sitting prominently in the middle. Sorcerer's Stone: "harry," "hermione," "ron," "hagrid," "professor," "snape" — institutional, school-heavy, no darkness. Sugahhuney: "harry," "family," "dark," "eyes," "son," "school" — the word "family" is prominent in a way it never is in Rowling. yellowsunchild: "harry," "draco's," "kiss," "sleep," "room," "hands" — intimate, physical, relational vocabulary that simply does not appear in the Rowling word clouds.
 
-![Side by side R word clouds for four texts](/rlac/assets/images/posts/r-wordclouds.png)
-*Figure 5: Word clouds generated in R for Deathly Hallows, Sorcerer's Stone, Sugahhuney Resurrection, and yellowsunchild Reconstructing HP.*
+![R word clouds — Deathly Hallows and Sorcerer's Stone](/rlac/assets/images/posts/r-wordclouds1.png)
+*Figure 5a: Rowling's word clouds. Deathly Hallows centres on war vocabulary — voldemort, death, dark, horcrux, eaters. Sorcerer's Stone is institutional — professor, hagrid, dumbledore, quidditch.*
+
+![R word clouds — Sugahhuney and yellowsunchild](/rlac/assets/images/posts/r-wordclouds2.png)
+*Figure 5b: Fanfic word clouds. Sugahhuney recenters the story around parenthood — severus, family, father, child, son, gently. yellowsunchild is unmistakably a romance — draco, kiss, lips, breath, holding, soft.*
 
 The summary panel from Voyant adds a useful quantitative note: yellowsunchild has the highest vocabulary density of the fanfics (0.130) while Deathly Hallows has the lowest (0.059). The shortest, most character-focused fanfic is also the most lexically varied.
 
