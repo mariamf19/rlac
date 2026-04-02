@@ -1,8 +1,10 @@
 ---
 permalink: /assignments/
 title: "Assignments"
+layout: collection
+collection: posts
+entries_layout: list
+classes: wide
 ---
 
-This page contains assignments and related materials.
-
-<!-- Add your assignments content here -->
+All assignments for CDAD-UH 1024Q: Reading Like a Computer, Spring 2026.
