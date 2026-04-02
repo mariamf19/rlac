@@ -28,7 +28,7 @@ plugins:
 
 author:
   name   : "Mariam Fatima"
-  avatar : "/rlac/assets/images/bio-photo.jpg"
+  avatar : "/rlac/assets/posts/bio-photo.jpg"
   bio    : "Junior at NYU Abu Dhabi studying Interactive Media. This is my course site for CDAD-UH 1024Q: Reading Like a Computer, Spring 2026."
   links:
     - label: "GitHub"
